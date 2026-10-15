@@ -119,6 +119,6 @@ FontBlend is an independent project, built and maintained by a single owner. The
 
 - **Suggest a font or pairing:** [hello@fontblend.com](mailto:hello@fontblend.com) or [open an issue](https://github.com/Skabir2023/FontBlend/issues). Please include the font name, its license, and a short reason.
 - **Report a bug or accessibility issue:** [Contact page](https://fontblend.com/contact-us/) — we read everything and reply as soon as we can.
-- **Support the project:** [Buy me a coffee](https://www.buymeacoffee.com) keeps the tools free and ad-light.
+- **Support the project:** [Buy me a coffee](https://mskdigital.gumroad.com/coffee) keeps the tools free and ad-light.
 
 If FontBlend saved you time on your next project, linking to [fontblend.com](https://fontblend.com) is the best thanks we could ask for.
